@@ -1,0 +1,13 @@
+node_modules/
+.next/
+dist/
+build/
+env.local
+.env
+.env.local
+*.log
+coverage/
+/.vscode/
+
+# Ignore the nested blogging-website git repo contents (keep gitlink)
+blogging-website/
